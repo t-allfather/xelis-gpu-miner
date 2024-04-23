@@ -1,4 +1,6 @@
-./xelis-taxminer --host ip:port --wallet <XELIS_WALLET>
+./xelis-taxminer --host ip:port --wallet <XELIS_WALLET> --boost
+
+--boost -> optional parameter it gives a little more hash
 
 
 
